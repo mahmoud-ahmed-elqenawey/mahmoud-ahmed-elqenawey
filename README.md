@@ -122,6 +122,7 @@
 
 [![my email: mahmoudelqenawey1@gmail.com](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/email_me.svg "mahmoudelqenawey1@gmail.com")](mailto:mahmoudelqenawey1@gmail.com)
 
-[![Twitter handel: @QenOo_](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/twitter.svg "@QenOo_")](https://twitter.com/QenOo_) -->
+[![Twitter handel: @QenOo_](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/twitter.svg "@QenOo_")](https://twitter.com/QenOo_)
+
 [![My linkedin profile](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/linkedin.svg "@mahmoud-ahmed-elqenawey")](https://www.linkedin.com/in/mahmoud-ahmed-elqenawey/)
 [![My instagram handel: @qenoo_](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/instagram.svg "@MZzzNn_")](https://www.instagram.com/qenoo_/)
