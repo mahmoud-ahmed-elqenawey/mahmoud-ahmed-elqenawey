@@ -1,6 +1,7 @@
 <h1>
     Hey! Nice to see you.
     <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px" height="30">
+    <br />
 </h1>
 
 <br />
@@ -22,26 +23,35 @@
 
 <br/>
 
-### Languages 🛠
+### Languages and Tools 🛠️
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)
+![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-![AdobeXD](https://img.shields.io/badge/-AdobeXD-000?&logo=AdobeXD)
-![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
+![AdobeXD](https://img.shields.io/badge/-UIkit-000?&logo=UIkit)
+![AdobeXD](https://img.shields.io/badge/-MUI-000?&logo=MUI)
+![AdobeXD](https://img.shields.io/badge/-Semantic_UI_React-000?&logo=SemanticUIReact)
+![AdobeXD](https://img.shields.io/badge/-Adobe_XD-000?&logo=AdobeXD)
+![AdobeXD](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 
 <br>
 
-![snake gif](https://github.com/mahmoud-ahmed-elqenawey/mahmoud-ahmed-elqenawey/blob/output/github-contribution-grid-snake.svg)
+### Social media :mailbox_with_no_mail:
+
+[![my email: mahmoudelqenawey1@gmail.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=Gmail "mahmoudelqenawey1@gmail.com")](mailto:mahmoudelqenawey1@gmail.com)
+[![Twitter handel: @QenOo_](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=Twitter&logoColor=1DA1F2 "@QenOo_")](https://twitter.com/QenOo_)
+[![My linkedin profile](https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2 "@mahmoud-ahmed-elqenawey")](https://www.linkedin.com/in/mahmoud-ahmed-elqenawey/)
+[![My instagram handel: @qenoo_](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=Instagram "@qenoo_")](https://www.instagram.com/qenoo_/)
 
 <br/>
 
-[![my email: mahmoudelqenawey1@gmail.com](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/email_me.svg "mahmoudelqenawey1@gmail.com")](mailto:mahmoudelqenawey1@gmail.com)
-[![Twitter handel: @QenOo_](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/twitter.svg "@QenOo_")](https://twitter.com/QenOo_)
-[![My linkedin profile](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/linkedin.svg "@mahmoud-ahmed-elqenawey")](https://www.linkedin.com/in/mahmoud-ahmed-elqenawey/)
-[![My instagram handel: @qenoo_](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/instagram.svg "@MZzzNn_")](https://www.instagram.com/qenoo_/)
+![snake gif](https://github.com/mahmoud-ahmed-elqenawey/mahmoud-ahmed-elqenawey/blob/output/github-contribution-grid-snake.svg)
+
+
+
