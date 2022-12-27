@@ -23,7 +23,10 @@
 
 <br/>
 
-### Languages and Tools 🛠️
+
+### `🛠️ Languages and Tools`
+
+<br />
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
@@ -42,7 +45,9 @@
 
 <br>
 
-### Social media :mailbox_with_no_mail:
+### `📫 Social media`
+
+<br>
 
 [![my email: mahmoudelqenawey1@gmail.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=Gmail "mahmoudelqenawey1@gmail.com")](mailto:mahmoudelqenawey1@gmail.com)
 [![My facebook profile](https://img.shields.io/badge/-Facebook-000?style=for-the-badge&logo=Facebook "Qeno.9")](https://www.facebook.com/Qeno.9/)
