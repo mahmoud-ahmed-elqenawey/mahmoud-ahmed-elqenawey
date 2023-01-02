@@ -27,7 +27,7 @@
 
 
 <p algin="center">
- <img src="https://share.creavite.co/nofGl1Pr9stLXltV.gif" width="80%"  >
+ <img src="https://share.creavite.co/nofGl1Pr9stLXltV.gif" width="100%"  >
 </p>
 
 
