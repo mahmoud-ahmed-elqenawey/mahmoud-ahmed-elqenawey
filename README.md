@@ -53,7 +53,7 @@
 
 <br>
 
-### `📫 Social media`
+### `📫 Social media `
 
 <br>
 
