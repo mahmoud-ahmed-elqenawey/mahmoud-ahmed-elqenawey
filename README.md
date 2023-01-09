@@ -26,10 +26,6 @@
 <br/>
 
 
-<p algin="center">
- <img src="https://share.creavite.co/nofGl1Pr9stLXltV.gif" width="100%"  >
-</p>
-
 ![](https://komarev.com/ghpvc/?username=mahmoud-ahmed-elqenawey)
 
 
