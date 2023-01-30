@@ -1,15 +1,4 @@
-<!--START_SECTION:waka-->
 
-```text
-JavaScript       8 hrs 13 mins   ███████▓░░░░░░░░░░░░░░░░░   31.33 %
-PHP              7 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   26.74 %
-HTML             3 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 %
-SCSS             3 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
-Blade Template   2 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-JSON             36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-```
-
-<!--END_SECTION:waka-->
 
 <h1>
     Hey ! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px" height="30">
@@ -83,7 +72,18 @@ JSON             36 mins         ▓░░░░░░░░░░░░░░�
 <br/>
 <br/>
 
-<!-- <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/mahmoud-ahmed-elqenawey/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/mahmoud-ahmed-elqenawey/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/mahmoud-ahmed-elqenawey/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table> -->
+<!--START_SECTION:waka-->
+
+```text
+JavaScript       8 hrs 13 mins   ███████▓░░░░░░░░░░░░░░░░░   31.33 %
+PHP              7 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   26.74 %
+HTML             3 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 %
+SCSS             3 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
+Blade Template   2 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+JSON             36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+```
+
+<!--END_SECTION:waka-->
 
 
 
