@@ -1,4 +1,14 @@
 <!--START_SECTION:waka-->
+
+```text
+JavaScript       8 hrs 13 mins   ███████▓░░░░░░░░░░░░░░░░░   31.33 %
+PHP              7 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   26.74 %
+HTML             3 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 %
+SCSS             3 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
+Blade Template   2 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+JSON             36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+```
+
 <!--END_SECTION:waka-->
 
 <h1>
