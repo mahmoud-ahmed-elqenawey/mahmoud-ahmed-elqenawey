@@ -73,11 +73,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript                 9 hrs 21 mins   ███████████░░░░░░░░░░░░░░   44.01 %
-HTML                       4 hrs 43 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
-SCSS                       4 hrs 40 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
-PHP                        1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Nginx configuration file   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+JavaScript                 9 hrs 42 mins   ██████████▒░░░░░░░░░░░░░░   41.64 %
+HTML                       6 hrs 9 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.41 %
+SCSS                       4 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   20.56 %
+PHP                        1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Nginx configuration file   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 ```
 
 <!--END_SECTION:waka-->
