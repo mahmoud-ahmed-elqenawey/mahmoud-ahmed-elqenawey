@@ -73,8 +73,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   25 hrs 19 mins  ████████████████████████▓   99.26 %
+TypeScript   25 hrs 19 mins  ████████████████████████▓   98.69 %
 CSV          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Go           8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
