@@ -30,7 +30,6 @@
 ![](https://komarev.com/ghpvc/?username=mahmoud-ahmed-elqenawey)
 
 
-
 ### `🛠️ Languages and Tools`
 
 <br />
